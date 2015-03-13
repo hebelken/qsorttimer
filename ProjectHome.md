@@ -1,0 +1,1 @@
+Creates an array, sorts it with java's built in array sort and times it
